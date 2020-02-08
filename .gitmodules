@@ -1,0 +1,3 @@
+[submodule "miniprogram/subs/Minerva"]
+	path = miniprogram/subs/Minerva
+	url = https://github.com/goutou1994/wxsubs-Minerva.git
