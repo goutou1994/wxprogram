@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "subs/Minerva/entry/entry",
+    "subs/Minerva/main/main",
+    "subs/Minerva/main/correct/correct",
+    "subs/Minerva/main/wrong/wrong",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
